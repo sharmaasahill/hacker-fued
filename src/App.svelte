@@ -340,7 +340,7 @@
       <button on:click={startGame}>
         <span>Start</span>
       </button>
-      <button class="github" on:click="{ () => { window.open('https://github.com/lettier/hacker-feud'); } }">
+      <button class="github" on:click="{ () => { window.open('https://sharmaasahill.github.io/hacker-fued/'); } }">
         <span>GitHub</span>
       </button>
     </div>

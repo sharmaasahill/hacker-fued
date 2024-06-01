@@ -4,7 +4,7 @@
 
 A tongue-in-cheek parody of Family Feud but for software engineers.
 Made with [Svelte](https://github.com/sveltejs/svelte).
-Click [here](https://lettier.github.io/hacker-feud/) to play.
+Click [here](https://sharmaasahill.github.io/hacker-fued/) to play.
 
 # Gameplay
 
