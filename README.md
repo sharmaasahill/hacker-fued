@@ -56,9 +56,3 @@ npm run build
 npm run dev &> /dev/null &
 python -mwebbrowser http://localhost:55555
 ```
-
-## Copyright
-
-(C) 2020 David Lettier
-<br>
-[lettier.com](https://www.lettier.com)
